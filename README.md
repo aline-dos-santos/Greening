@@ -2,6 +2,8 @@
 Modelos de visão computacional utilizando detecção de objetos
 
 ## Download do Modelo
+A base de dados pode ser baixada aqui: [aqui](https://universe.roboflow.com/pragas/base-de-dados-hlb/dataset/18).
+
 Os pesos do modelo treinado com YOLOv7 podem ser baixados: [aqui](https://drive.google.com/drive/u/6/folders/1-IjwPNXjv9eypSC-eAzkh57ZSJ0_mHJ3).
 
 Os pesos do modelo treinado com YOLOv8 podem ser baixados: [aqui](https://drive.google.com/drive/u/4/folders/12_U8BTE60Xdv13NUxdbVkDCWOPbwSTov).
